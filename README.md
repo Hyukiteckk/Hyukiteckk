@@ -1,16 +1,25 @@
-### Hi there 👋
+### Olá Sou o Abner ✌
 
-<!--
-**Hyukiteckk/Hyukiteckk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Estou Atualmente trabalhando na Empresa : Magazine Luiza
+- 🌱 Estou Atualmente estudando : Python e Java Script
+- 📫 Entre em contato pelo E-Mail: abinhomartins@gmail.com
+- 😄 Pronomes : Ele/Dele
+- ⚡ Fatos sobre mim : Estou atualmente cursando Analise e desenvolvimento de sistemas, gosto muito de pizza e estou sempre aprendendo coisas novas.
 
-Here are some ideas to get you started:
+<div style="display: inline_block"><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+ 
+</div>
+
+  ##
+
+  <div> 
+  <a href="https://www.youtube.com/@hyukiteckk7152" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/abnermartins_prado" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/hyukiteckk" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+  <a href = "mailto:abinhomartins@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/abner-martins-b456aa1b6/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
 -->
