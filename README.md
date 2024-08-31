@@ -3,7 +3,6 @@
 - 🔭 Estou Atualmente trabalhando na Empresa : Magazine Luiza
 - 🌱 Estou Atualmente estudando : Python e Java Script
 - 📫 Entre em contato pelo E-Mail: abinhomartins@gmail.com
-- 😄 Pronomes : Ele/Dele
 - ⚡ Fatos sobre mim : Estou atualmente cursando Analise e desenvolvimento de sistemas, gosto muito de pizza e estou sempre aprendendo coisas novas.
 
 <div align="center">
