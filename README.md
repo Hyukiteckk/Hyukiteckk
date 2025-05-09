@@ -1,6 +1,6 @@
 ### Olá Sou o Abner ✌
 
-- 🔭 Estou Atualmente trabalhando na Empresa : Magazine Luiza
+- 🔭 Estou Atualmente trabalhando na Empresa : Q2-Ingressos
 - 🌱 Estou Atualmente estudando : Python e Java Script
 - 📫 Entre em contato pelo E-Mail: abinhomartins@gmail.com
 - ⚡ Fatos sobre mim : Estou atualmente cursando Analise e desenvolvimento de sistemas, gosto muito de pizza e estou sempre aprendendo coisas novas.
