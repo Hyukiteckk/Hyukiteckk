@@ -1,44 +1,50 @@
-# Olá, eu sou o Abner! 👋
+# <div align="center">OLÁ, SOU O ABNER! <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pizza/pizza-original.svg" /> </div>
 
+## <div align="center">Sobre Mim</div>
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&quote=O%20sucesso%20é%20a%20soma%20de%20pequenos%20esforços%20repetidos%20dia%20após%20dia." alt="Quote" />
+  🔭 Atualmente trabalhando na Empresa : **Q2-Ingressos** 🌱 Estudando no momento: **Python** e **JavaScript** 📫 Entre em contato: [abinhomartins@gmail.com](mailto:abinhomartins@gmail.com)  
+  ⚡ Cursando ADS, fã de pizza e em constante aprendizado.
 </div>
 
-### 🚀 Sobre Mim
-Eu sou um entusiasta de tecnologia focado em backend e automação, atualmente evoluindo minhas habilidades em **Python** e **JavaScript**.
-
-- 🏢 Atualmente trabalhando na **Q2-Ingressos**.
-- 🎓 Cursando **Análise e Desenvolvimento de Sistemas**.
-- 🍕 Apaixonado por pizza e por resolver problemas complexos com código simples.
-- 📫 Como me encontrar: [abinhomartins@gmail.com](mailto:abinhomartins@gmail.com)
-
----
-
-### 🛠️ Tecnologias e Ferramentas
-<div align="left">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
-</div>
-
----
-
-### 📊 Estatísticas
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hyukiteckk&show_icons=true&theme=dracula&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyukiteckk&layout=compact&theme=dracula&hide_border=true" />
-</div>
+## <div align="center">Estatísticas</div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hyukiteckk&theme=dracula&hide_border=true" />
+  <img src="https://img.shields.io/badge/Cálculo%20de%20Commits-em%20Progresso...-black?style=for-the-badge&logo=codetribe&logoColor=white" />
+  <img src="https://img.shields.io/badge/Progresso-%5B████░░░░░░%5D%2025%25-green?style=for-the-badge&logo=visual-studio&logoColor=white" />
 </div>
 
----
+<br>
 
 <div align="center">
-  <a href="https://linktr.ee/Hyukiteckk">
-    <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyukiteckk&layout=compact&langs_count=7&theme=dracula&hide_border=true"/>
+</div>
+
+<br>
+
+## <div align="center">Minha Stack (Tecnologias)</div>
+
+<div align="center">
+  <a href="https://python.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="40" width="40"/>
   </a>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="40" width="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" height="40" width="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" height="40" width="40"/>
+  </a>
+  <a href="https://git-scm.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" height="40" width="40"/>
+  </a>
+</div>
+
+<br>
+<hr>
+
+<div align="center">
+  <a href="#Hyukiteckk"><img src="https://img.shields.io/badge/Discord-Hyukiteckk-blue?style=flat-square&logo=discord&logoColor=white" /></a>
+  <a href="https://github.com/Hyukiteckk"><img src="https://img.shields.io/badge/GitHub-Hyukiteckk-purple?style=flat-square&logo=github&logoColor=white" /></a>
 </div>
